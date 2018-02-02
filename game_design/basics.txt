@@ -1,0 +1,1 @@
+Simple test javascript file for swapping GIF files.
